@@ -1,5 +1,5 @@
 CC := gcc
-CFLAGS := -Wall -Wextra -Wconversion -O2
+CFLAGS := -Wall -Wextra -Wconversion -O2 -lraylib
 SRC := main.c
 OBJ := main.o
 
